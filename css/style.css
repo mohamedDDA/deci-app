@@ -602,6 +602,17 @@ a.connect i {
 
 
 
+
+.sub-btn {
+  background: #0099ff linear-gradient(120deg, rgba(103, 151, 255, 0) 0%, #80c6f5 100%);
+  color: #fff;
+  border-radius: 8px;
+  width: fit-content;
+  padding: 10px 25px;
+  font-size: 14px;
+  transition: 0.3s;
+  margin-top: 20px;
+}
 @keyframes moving {
   0% {
     transform: rotate(0deg);
